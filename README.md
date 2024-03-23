@@ -1,0 +1,2 @@
+# ScoringLogistic
+Scoring Bancario
